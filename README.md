@@ -1,7 +1,7 @@
 # 🚀 HookPulse
 ### *Never die at 1,000 views again.Without logging into Google *
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Release_v1.0-brightgreen?style=for-the-badge&logo=github)](https://github.com/your-username/hookpulse/releases/latest)
+[![Download Latest Release](https://img.shields.io/badge/Download-Release_v1.0-brightgreen?style=for-the-badge&logo=github)](https://github.com/insistentste/HookPulse/releases/tag/YtShortsV1)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 [![Platform: Windows](https://img.shields.io/badge/Platform-Windows-blue?style=for-the-badge&logo=windows)](https://github.com/your-username/hookpulse)
 
